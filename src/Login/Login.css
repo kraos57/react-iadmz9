@@ -1,0 +1,18 @@
+.login-container-parent {
+  height: 600px;
+  padding: 10px 150px 10px 150px;
+}
+
+.login-container {
+  float: left;
+  width: 600px;
+  height: 60px;
+}
+
+.login-row {
+  width: 120px;
+}
+
+.form-row-input {
+  width: 120px;
+}
